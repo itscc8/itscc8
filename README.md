@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Githubbing since 15 April 2023
+
 <!--
 **itscc8/itscc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
