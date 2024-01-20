@@ -2,7 +2,9 @@
 
 ### Githubbing since 3rd of February 2021
 
+<!--
 ![test](https://raw.githubusercontent.com/itscc8/itscc8/main/test.svg)
+-->
 
 <!--
 **itscc8/itscc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
