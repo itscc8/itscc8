@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none">
         <foreignObject width="100%" height="100%"> 
             <div xmlns="http://www.w3.org/1999/xhtml">
-                <h1 style="color: blue;">TEST</h1>
+                <h1 id="test"style="color: blue;">TEST</h1>
+<script>document.getElementbyId("test").innerText="gg"</script>
             </div>
        </foreignObject>
 </svg>
